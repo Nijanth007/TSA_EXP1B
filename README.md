@@ -1,10 +1,10 @@
 # Ex.No: 1B      CONVERTING NON-STATIONARY SERIES INTO STATIONARY FORM
 
-## Developed By : VENKATANATHAN P R
+## Developed By : NIJANTH K
 
-## Register Number: 212223240173
+## Register Number: 212223042186
 
-# Date: 18-06-2025
+# Date: 03/01/026
 
 ### AIM:
 
@@ -80,22 +80,13 @@ plt.show()
 ### OUTPUT:
 
 **After Regular Differencing:**
+<img width="612" height="406" alt="Screenshot 2025-08-18 161443" src="https://github.com/user-attachments/assets/9813d0c7-0baa-48bb-a951-1f0500fbf562" />
+<img width="600" height="394" alt="Screenshot 2025-08-18 161501" src="https://github.com/user-attachments/assets/ad5e4aa0-bf46-41a3-bc5d-dfba4e188e4d" />
+<img width="609" height="401" alt="Screenshot 2025-08-18 161511" src="https://github.com/user-attachments/assets/2369a9e6-fb19-4c4e-a626-8bd1068c7791" />
+<img width="585" height="403" alt="Screenshot 2025-08-18 161522" src="https://github.com/user-attachments/assets/eb294dff-0c14-4994-9c75-5a58205fef36" />
+<img width="600" height="407" alt="Screenshot 2025-08-18 161532" src="https://github.com/user-attachments/assets/3c366723-df48-4911-96da-35d7cd8ebae8" />
+<img width="600" height="396" alt="Screenshot 2025-08-18 161548" src="https://github.com/user-attachments/assets/f43d5f50-2eee-4bdc-af20-3fdd3cefc696" />
 
-![alt text](<IMAGES/Screenshot 2025-08-18 161443.png>)
-
-![alt text](<IMAGES/Screenshot 2025-08-18 161501.png>)
-
-![alt text](<IMAGES/Screenshot 2025-08-18 161548.png>)
-
-**After Seasonal Adjustment:**
-
-![alt text](<IMAGES/Screenshot 2025-08-18 161511.png>)
-
-
-
-**After Log Transformation:**
-
-![alt text](<IMAGES/Screenshot 2025-08-18 161522.png>)
 
 ### RESULT:
 
